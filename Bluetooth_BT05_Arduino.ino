@@ -1,6 +1,8 @@
 #include <SoftwareSerial.h>
 #define LED_PIN 13
 
+//Testing
+
 SoftwareSerial BT05(10, 11); //RX|TX
 
 // Connect BT05      Arduino Uno
